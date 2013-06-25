@@ -1,0 +1,21 @@
+VSMpy
+=====
+
+VSMpy is a bare bones Python package implementing a standard Vector Space
+Model (i.e., binary-valued vectors from a Bag-Of-Words language model 
+compared with the cosine similarity measure) in the context of a ready-to-
+distribute package. It illustrates:
+
+* package and module structure
+* configuration for build and installation
+* running scripts for testing
+
+In the end, this is almost the same as Bob Carpenter's (Alias-i, Inc)
+"pyhi" project skeletal distribution (see 
+http://alias-i.com/python/pyhi/) with a veneer of Text Classification.
+
+
+For any comment or suggestion of any kind, please contact 
+
+    Alexandre Trilla <alex@atrilla.net>
+

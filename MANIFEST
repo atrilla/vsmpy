@@ -1,0 +1,6 @@
+LICENCE
+README
+setup.py
+vsmpy/__init__.py
+vsmpy/feature/__init__.py
+vsmpy/feature/vsm.py
