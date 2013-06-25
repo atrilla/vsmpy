@@ -75,7 +75,10 @@ class VectorSpaceModel:
 			parsed text."""
 		v = []
 		for d in self.__dim:
-			v.append(text.count(d));
+			cc = text.count(d)
+			if (cc > 0):
+				cc = 1
+			v.append(cc)
 		return v
 
 	def parse(self, text):
